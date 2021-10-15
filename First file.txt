@@ -1,1 +1,6 @@
 First Git file
+Created on: 13/10/21
+git commands...
+	git add . 
+	git push
+
